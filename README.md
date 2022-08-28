@@ -1,4 +1,4 @@
-Home Page Preview
+<font size=3>Home Page Preview</font>
 
 ![2022-08-28_18-56-52](https://user-images.githubusercontent.com/88619137/187080785-a28df671-0163-4e83-87f0-bd25bc9def66.png)
 ![2022-08-28_18-57-48](https://user-images.githubusercontent.com/88619137/187080794-ba4b7226-040f-4c25-a66e-c2dcf93ce9bd.png)
