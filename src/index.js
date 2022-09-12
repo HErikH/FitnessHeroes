@@ -130,7 +130,7 @@ section {
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.epv.PUBLIC_URL}>
     <ThemeProvider theme={theme}>
     <GlobalStyle />
     <App/>
